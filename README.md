@@ -252,7 +252,7 @@ Portfolio Documentation (README)
 
 > **Full Interactive Dashboard**
 
-[Social Media analysis dashboard.png]
+[[Social Media analysis dashboard.png](https://github.com/sharvarimahalle-sketch/Social-Media-Analysis/blob/main/Social%20Media%20analysis%20dashboard.png)]
 
 
 
