@@ -252,15 +252,9 @@ Portfolio Documentation (README)
 
 > **Full Interactive Dashboard**
 
-![Social Media Analytics Dashboard](Images/dashboard_screenshot.png)
+![Social Media Analytics Dashboard](Social Media analysis dashboard.png)
 
 
-> **Dashboard Walkthrough Video**
-
-[![Dashboard Walkthrough](Images/dashboard_screenshot.png)](Videos/Social_media_analysis_walkthrough.mp4)
-*Click the image above to watch the full dashboard walkthrough including filter interactions and drill-downs.*
-
----
 
 ## 📁 Repository Structure
 
@@ -268,19 +262,15 @@ Portfolio Documentation (README)
 Social-Media-Audience-Intelligence/
 │
 ├── Data/
-│   └── social_media_analysis.csv          # Raw source dataset (200 users)
+│   └── data.csv                               # Raw source dataset
 │
 ├── Dashboard/
-│   └── Social_media_analysis.pbix         # Power BI Desktop file
+│   └── Social_media_analysis.pbix             # Power BI Desktop file
 │
 ├── Images/
-│   ├── dashboard_screenshot.png           # Full dashboard screenshot
-│   └── measures_screenshot.png           # DAX measures panel screenshot
-│
-├── Videos/
-│   └── Social_media_analysis_walkthrough.mp4  # Interactive demo recording
-│
-└── README.md                              # Project documentation (this file)
+│   ├── Social Media analysis dashboard.png     # Full dashboard screenshot
+│   
+└── README.md                                   # Project documentation (this file)
 ```
 
 
