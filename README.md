@@ -252,7 +252,7 @@ Portfolio Documentation (README)
 
 > **Full Interactive Dashboard**
 
-![Social Media Analytics Dashboard](Social Media analysis dashboard.png)
+[Social Media analysis dashboard.png]
 
 
 
